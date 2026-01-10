@@ -37,3 +37,7 @@ Ejecutar el siguiente comando en la terminal:
 
 ```bash
 pip install numpy matplotlib scipy
+
+## Recomendaciones
+
+- Escuchar los audios (original y filtrado) con audífonos para identificar mejor los cambios en la señal.
