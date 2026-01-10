@@ -23,6 +23,12 @@ como MSE y SNR.
 
 ---
 
+## Recomendaciones
+
+- Escuchar los audios (original y filtrado) con audífonos para identificar mejor los cambios.
+
+---
+
 ## Requisitos
 - Python 3.9 o superior
 - Librerías:
@@ -37,7 +43,3 @@ Ejecutar el siguiente comando en la terminal:
 
 ```bash
 pip install numpy matplotlib scipy
-
-## Recomendaciones
-
-- Escuchar los audios (original y filtrado) con audífonos para identificar mejor los cambios en la señal.
